@@ -1,0 +1,6 @@
+.step-container {
+  width: 100%;
+  margin: 30px;
+  display: flex;
+  justify-content: center;
+}
